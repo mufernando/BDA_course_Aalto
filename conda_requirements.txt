@@ -1,0 +1,12 @@
+r==4.1
+jupyterlab
+r-essentials
+r-tidyverse
+r-data.table
+r-rstan
+r-devtools
+r-irkernel
+jupyterlab
+jupyterlab_vim
+r-markmyassignment
+jupyter_contrib_nbextensions
